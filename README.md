@@ -1,1 +1,1 @@
-# COVID-19-Data-Analytics-Using-Python-and-Power-BI
+# Refer to the Report Mentioned in the Repository for the better understanding of the project
