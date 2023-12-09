@@ -1,1 +1,1 @@
-# COVID-19-Data-Analysis-Using-Python-and-Power-BI
+# COVID-19-Data-Analytics-Using-Python-and-Power-BI
